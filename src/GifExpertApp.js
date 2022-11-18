@@ -13,7 +13,7 @@ export const GifExpertApp = () =>{
     return (
 
      <> 
-    <h2> WelcomeToTheDiscoApp </h2>
+    <h2> Encontre os seus gifs favoritos </h2>
     <AddCategory setCategories={ setCategories }/>
     <hr  />
    
